@@ -3,8 +3,9 @@ package com.orange;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("a");
-
+		
+		String str = "aaaaa";
+		System.out.println(str);
 	}
 
 }
