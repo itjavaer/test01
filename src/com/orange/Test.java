@@ -6,6 +6,8 @@ public class Test {
 		
 		String str = "aaaaa";
 		System.out.println(str);
+		
+		System.out.println(str+"-----");
 	}
 
 }
